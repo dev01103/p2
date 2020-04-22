@@ -5,7 +5,7 @@ temperature = 0  #temp.from input
 
 print("Converting temperature C/F")
 print("C at the end for Celsius, F at end for Fahrenheit")
-temperature = input("Enter temperature: ")
+temperature = input("Enter temperature [c/f]: ")
 
 #converting
 #f = c * 9/5 + 32
